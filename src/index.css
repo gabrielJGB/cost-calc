@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+*{
+
+  color:black;  
+}
+
+body{
+  background-color: rgb(31, 31, 31);
+}
+
+.bg-notepad {
+  background: repeating-linear-gradient(
+    to bottom,
+    #fff,
+    #fff 24px,
+    #c2e7ff 25px
+  );
+}
+
+.border-left-notepad {
+  border-left: 4px solid red;
+  padding-left: 1rem;
+}
