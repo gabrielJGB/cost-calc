@@ -9,8 +9,8 @@ export default defineConfig({
     registerType: 'autoUpdate',
     includeAssets: ['preact.svg'],
     manifest: {
-      name: 'Calculadora',
-      short_name: 'Calculadora',
+      name: 'Costo/Venta',
+      short_name: 'Costo/Venta',
       description: 'Calculadora de costo/venta',
       display: 'standalone',
       background_color: '#1e293b',
